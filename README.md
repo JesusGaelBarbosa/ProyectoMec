@@ -1,4 +1,4 @@
-El progama esta enfocado en resolver problemas de Electroestatica, especificamente de la Ley de Coulomb, un ejemplo de estos seria: 
+El progama esta enfocado en resolver problemas de Electroestatica, especificamente de la Ley de Coulomb, un ejemplo de estos seria:
     Una carga de -5x10^-7 C ejerce una fuerza a otra carga de 0.237 N a una distancia de 3.5 metros, ¿cuál es el valor de la segunda carga?
         Datos: k = 8.99x10^9 Nm^2/C^2 q1 = -5x10^-7 C    F = 0.237 N    r = 3.5 m    q2 = ?
         Formula: F = k(q1q2)/r^2, despejando la segunda carga tenemos q2 = (F(r^2))/kq1
