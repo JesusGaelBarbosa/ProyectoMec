@@ -137,13 +137,13 @@ void Diagrama(){
   printf("\n\t\t\t\tMisma Carga\n\t\t\t\t");
   printf("q1\t\td\t\tq2\n");
   printf("\t\t\t\t▄▄\t\t \t\t▄▄\n");
-  printf("\t\t\t\t██──────────────────────────────██\n");
+  printf("\t\t\t\t██─────────────────────────────██\n");
   printf("\t\t\t\t▀▀\t\t \t\t▀▀\n");
   printf("\t\t\tF<───────\n");
   printf("\n\t\t\t\tDistinta Carga\n\t\t\t\t");
   printf("q1\t\td\t\tq2\n");
   printf("\t\t\t\t▄▄\t\t \t\t▄▄\n");
-  printf("\t\t\t\t██──────────────────────────────██\n");
+  printf("\t\t\t\t██─────────────────────────────██\n");
   printf("\t\t\t\t▀▀\t\t \t\t▀▀\n");
   printf("\t\t\t\t───────>F\n");
   espera();
